@@ -13,7 +13,10 @@ I am currently a student pursuing a double degree in Mathematics and Computer En
 ## 🔗 Links
 
 <p align="center">
-  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <a href="https://alvinceleste.eu/">
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/alvaro-grande">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
 </p>
