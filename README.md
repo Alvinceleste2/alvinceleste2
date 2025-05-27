@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Álvaro! 👋
 
-<!--
-**Alvinceleste2/alvinceleste2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am currently a student pursuing a double degree in Mathematics and Computer Engineering.
 
-Here are some ideas to get you started:
+## 📊 Some Github stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Alvinceleste2&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=alvinceleste2&show_icons=true&card_width=500&theme=gruvbox" alt="GitHub Stats"/>
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alvinceleste2&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvinceleste2&show_icons=true&card_width=500&theme=gruvbox)
+
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alvinceleste.eu/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-grande)
