@@ -5,7 +5,7 @@ I am currently a student pursuing a double degree in Mathematics and Computer En
 
 ## 📊 Some Github stats
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Alvinceleste2&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak"/>
   </a>
