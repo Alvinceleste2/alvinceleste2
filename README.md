@@ -6,7 +6,7 @@ I am currently a student pursuing a double degree in Mathematics and Computer En
 ## 📊 Some Github stats
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Alvinceleste2&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&card_width=420" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Alvinceleste2&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&card_width=420" alt="GitHub Streak" style="margin-top: 10px;" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alvinceleste2&show_icons=true&card_width=400&theme=gruvbox" alt="GitHub Stats" style="margin-top: 10px;" />
 </p>
 
