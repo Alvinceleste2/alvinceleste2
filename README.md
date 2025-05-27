@@ -5,9 +5,17 @@ I am currently a student pursuing a double degree in Mathematics and Computer En
 
 ## 📊 Some Github stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alvinceleste2&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://git.io/streak-stats)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Alvinceleste2&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=alvinceleste2&show_icons=true&card_width=400&theme=gruvbox" alt="GitHub Stats"/>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvinceleste2&show_icons=true&card_width=1000&theme=gruvbox)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alvinceleste2&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvinceleste2&show_icons=true&card_width=500&theme=gruvbox)
 
 
 ## 🔗 Links
