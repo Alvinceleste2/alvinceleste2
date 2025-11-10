@@ -28,6 +28,7 @@ I am currently a student pursuing a double degree in Mathematics and Computer En
     <img src="https://skillicons.dev/icons?i=git,docker,aws,latex" />
   </a>
 </p>
+
 ## 🔗 Links
 
 <p align="center">
