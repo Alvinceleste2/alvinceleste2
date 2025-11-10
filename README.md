@@ -13,10 +13,21 @@ I am currently a student pursuing a double degree in Mathematics and Computer En
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c, python, java" />
+    <img src="https://skillicons.dev/icons?i=c,python,java" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,neovim,bash" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,latex" />
+  </a>
+</p>
 ## 🔗 Links
 
 <p align="center">
